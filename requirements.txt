@@ -1,0 +1,8 @@
+futures
+pandas
+python-dotenv
+google-api-python-client
+google-cloud-pubsub
+google-cloud-storage
+requests
+logging
